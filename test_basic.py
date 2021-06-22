@@ -1,6 +1,6 @@
-x = 20
 
 print("Python test on jenkins...")
 
-for i in x :
-  print("The no. is :",i)
+x = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+for i in x:
+  print("The no. is:",i)
